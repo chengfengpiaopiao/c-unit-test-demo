@@ -1,2 +1,3 @@
-﻿  TestUnitDemo.cpp
+﻿EwmTestDemo.lib(Personal.obj) : warning LNK4099: 未找到 PDB“EwmTestDemo.pdb”(使用“EwmTestDemo.lib(Personal.obj)”或在“F:\c++\test\c_demo\Debug\EwmTestDemo.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+EwmTestDemo.lib(student.obj) : warning LNK4099: 未找到 PDB“EwmTestDemo.pdb”(使用“EwmTestDemo.lib(student.obj)”或在“F:\c++\test\c_demo\Debug\EwmTestDemo.pdb”中寻找)；正在链接对象，如同没有调试信息一样
   TestUnitDemo.vcxproj -> F:\c++\test\c_demo\Debug\TestUnitDemo.exe
